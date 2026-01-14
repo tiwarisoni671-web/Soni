@@ -27,7 +27,7 @@ const IntroducingBroker = () => {
         
 
             {/* GOLD LINE */}
-            <div className="w-130 h-[3px] bg-[#d2aa73] my-6"></div>
+            <div className="max-w-130 h-[3px] bg-[#d2aa73] my-6"></div>
 
             {/* SUB TEXT */}
             <p className="text-gray-600 text-2xl italic leading-relaxed max-w-xl">
@@ -35,7 +35,7 @@ const IntroducingBroker = () => {
             </p>
 
             {/* GOLD LINE */}
-            <div className="w-130 h-[3px] bg-[#d2aa73] my-6"></div>
+            <div className="max-w-130 h-[3px] bg-[#d2aa73] my-6"></div>
 
             {/* HIGHLIGHT TEXT */}
             <p className="text-[#d2aa73] text-xl font-semibold max-w-xl">
