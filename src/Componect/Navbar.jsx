@@ -32,7 +32,7 @@ const Navbar = () => {
         <div className="flex items-center">
           <img 
             src="/logo.png" 
-            alt="Nebula Logo" 
+            alt="Logo" 
             className="h-12 sm:h-14 lg:h-16 xl:h-18 w-auto transition-all duration-300" 
           />
         </div>
